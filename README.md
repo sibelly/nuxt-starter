@@ -1,4 +1,4 @@
-# bpm-webapp
+# Vuetify + Nuxt.js
 
 ## Build Setup
 
